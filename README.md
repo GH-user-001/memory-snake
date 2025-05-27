@@ -2,7 +2,8 @@
 
 Memory Snake is a web-based game that helps you memorize lists by playing a fun and challenging version of the classic Snake game. Instead of just eating food, you must eat items in the correct sequence to master a list!
 
-🎮 **[Play Now](https://tinyurl.com/23v3uv67)**
+🎮 **[Play Now](https://tinyurl.com/23v3uv67)**  
+📚 **[View Research & Analysis](RESEARCH.md)**
 
 ## Features
 - **Memorize by Playing:** Select or create a list (e.g., numbers, colors, planets) and memorize the sequence by eating items in order.
